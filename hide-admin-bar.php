@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: WP Swift: Hide Admin Bar
-Plugin URI: 
+Plugin URI: https://github.com/GarySwift/wp-swift-hide-admin-bar.git
 Description: Disable WordPress Admin Bar for all users except Administrators and Editors
 Version: 1.0.0
 Author: Gary Swift
-Author URI: 
-Text Domain: wordpress-plugin-hide-admin-bar
+Author URI: https://github.com/GarySwift
+Text Domain: wp-swift-hide-admin-bar
 Domain Path: 
 */
 class Hide_Admin_Bar_Plugin {
